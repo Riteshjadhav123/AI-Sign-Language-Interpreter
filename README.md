@@ -7,7 +7,7 @@ Sign language is one of the oldest and most natural forms of language for commun
 Introduction:
 
 American sign language is a predominant sign language. Since the only disability deaf and mute people have is communication-related and they cannot use spoken languages, the only way for them to communicate is through sign language. Communication is the process of exchanging thoughts and messages in various ways such as speech, signals, behavior, and visuals. Deaf and mute people make use of their hands to express different gestures to communicate their ideas with other people. Gestures are the nonverbally exchanged messages and these gestures are understood with vision. This nonverbal communication of deaf and mute people is called sign language.
-This project focuses on producing a model that can recognize finger-spelling-based hand gestures to form a complete word by combining each gesture.
+This project focuses on producing a model that can recognize finger-spelling-based hand gestures to form a complete word by combining each gesture..
 
 Requirements:
 
